@@ -20,7 +20,7 @@ English | [简体中文](./README-zh_CN.md)
 
 TDesign Vue Next is a UI component library for Vue 3 and desktop application.
 
-# 🎉 Features12
+# 🎉 Features123
 
 - Desktop application interaction
 - High quality UI components for Vue 3.x
