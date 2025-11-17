@@ -1,5 +1,5 @@
 {
-  "name": "@tdesign-vue-next/auto-import-resolver",
+  "name": "@liweijie0812/auto-import-resolver",
   "version": "0.1.3",
   "description": "On-demand components auto importing for series of TDesign Vue Components",
   "author": "tdesign",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tencent/tdesign-vue-next.git",
+    "url": "git+https://github.com/liweijie0812/tdesign-vue-next.git",
     "directory": "packages/auto-import-resolver"
   },
   "files": [
