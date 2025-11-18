@@ -21,12 +21,16 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 18
 
       - run: pnpm install
 
       - run: pnpm run '/build:*/'
-
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          
       - uses: TDesignOteam/flow-pilot-action@develop
         with:
           token: ${{ secrets.TDESIGN_BOT_TOKEN }}
