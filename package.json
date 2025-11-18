@@ -2,14 +2,6 @@
   "name": "tdesign-vue-mono",
   "private": true,
   "packageManager": "pnpm@9.15.9",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tencent/tdesign-vue-next.git"
-  },
-  "homepage": "https://github.com/Tencent/tdesign-vue-next/blob/develop/README.md",
-  "bugs": {
-    "url": "https://github.com/Tencent/tdesign-vue-next/issues"
-  },
   "engines": {
     "node": ">= 18"
   },
