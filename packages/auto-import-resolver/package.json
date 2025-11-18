@@ -1,5 +1,5 @@
 {
-  "name": "@liweijie0812/auto-import-resolver",
+  "name": "@liweijie0812/tdesign-auto-import-resolver",
   "version": "0.1.4-alpha.2",
   "description": "On-demand components auto importing for series of TDesign Vue Components",
   "author": "tdesign",
