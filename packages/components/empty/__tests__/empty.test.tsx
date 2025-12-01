@@ -275,7 +275,7 @@ describe('Empty', () => {
     });
 
     it('should render with custom image from ConfigProvider', () => {
-      // ConfigProvider can customize the image, but ||` fallback means null won't work
+      // ConfigProvider can customize the image, but || fallback means null won't work
       const wrapper = mount(() => <Empty type="empty"></Empty>);
       // Default empty SVG should render
       expect(wrapper.find('.t-empty').exists()).toBe(true);
